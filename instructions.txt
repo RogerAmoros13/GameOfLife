@@ -1,0 +1,15 @@
+----------------------------- CONWAY'S GAME OF LIFE -------------------------------
+
+RULES
+- If a cell has 2 or 3 neighbour cells, it survives.
+- If a dead cell has 3 neighbour cells, it revives.
+
+INSTRUCTIONS
+- Left click creates an alive cell.
+- Right click kills an alive cell.
+- When the distribution of alive cells is done, press SPACE for runnin Game Of Life.
+- Press r for kill every cell.
+
+==================================================================================
+
+
